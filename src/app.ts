@@ -1,1 +1,4 @@
-console.log('Arquivo de testes. Pode mexer nele como quiser.')
+const funcionario2: {codigo: number, nome: string} = {
+    codigo: 10,
+    nome: 'joao'
+}
